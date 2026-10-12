@@ -1,0 +1,6 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "dart.flutterWebRenderer": "auto",
+    "dart.warnWhenEditingFilesOutsideWorkspace": false,
+    "mobile-preview.url": "http://localhost:8090/"
+}
